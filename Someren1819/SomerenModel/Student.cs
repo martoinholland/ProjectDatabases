@@ -13,5 +13,6 @@ namespace SomerenModel
         public int Number { get; set; } // StudentNumber, e.g. 474791
         public DateTime BirthDate { get; set;  }
         //yasss it works
+        ////newwwwww
     }
 }
