@@ -20,3 +20,9 @@ C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\obj\D
 C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.pdb
+D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenModel\bin\Debug\SomerenModel.dll
+D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenModel\bin\Debug\SomerenModel.pdb
+D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.dll
+D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.pdb
