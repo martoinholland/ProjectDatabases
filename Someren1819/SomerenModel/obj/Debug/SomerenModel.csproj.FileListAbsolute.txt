@@ -14,3 +14,9 @@ C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenModel\obj\Debug\SomerenModel.pdb

@@ -33,3 +33,13 @@ C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
