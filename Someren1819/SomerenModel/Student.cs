@@ -12,6 +12,13 @@ namespace SomerenModel
         public String LastName { get; set; }
         public int Number { get; set; } // StudentNumber, e.g. 474791
         public DateTime BirthDate { get; set;  }
+
+        //please work //new change
+
+        //yasss it works
+        ////newwwwww
+
+
         //testing github
     }
 }

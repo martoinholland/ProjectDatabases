@@ -45,6 +45,8 @@ namespace SomerenUI
                 img_Dashboard.Hide();
 
                 // show students
+
+                lbl_Students.Text = "Students";
                 pnl_Students.Show();
 
                 
@@ -78,7 +80,7 @@ namespace SomerenUI
             {
                 pnl_Dashboard.Hide();
                 img_Dashboard.Hide();
-                pnl_Students.Hide();
+                //pnl_Students.Hide();
 
                 //Program.ShowTeachers().Show();
                 //this.pnl_Students.Controls.Clear();
@@ -95,16 +97,57 @@ namespace SomerenUI
 
                 //Adding columns
                 listViewStudents.View = View.Details;
-                listViewStudents.Columns.Add("Name", -2, HorizontalAlignment.Center);
                 listViewStudents.Columns.Add("Id", -2, HorizontalAlignment.Center);
+                listViewStudents.Columns[0].Width = 25;
+                listViewStudents.Columns.Add("Name", -2, HorizontalAlignment.Center);
+                listViewStudents.Columns[1].Width = 100;
+
                 foreach (SomerenModel.Teacher s in lecturersList)
                 {
-                    ListViewItem li = new ListViewItem(s.Name);
-                    li.SubItems.Add(s.Number.ToString());
+                    ListViewItem li = new ListViewItem(s.Number.ToString());
+                    //li.SubItems.Add(s.Number.ToString());
                     li.SubItems.Add(s.Name.ToString());
                     listViewStudents.Items.Add(li);
                     //   listViewLecturers.Items.Add(li);
                 }
+            }
+            else if (panelName == "Rooms")
+            {
+                // hide all other panels
+                pnl_Dashboard.Hide();
+                img_Dashboard.Hide();
+                //pnl_Students.Hide();
+                
+
+                //show rooms
+                pnl_Students.Show();
+                lbl_Students.Text = "Rooms     ";
+
+
+                // fill the students listview within the students panel with a list of students
+                SomerenLogic.Room_Service roomService = new SomerenLogic.Room_Service();
+                List<Room> roomList = roomService.GetRooms();
+
+                // clear the listview before filling it again
+                listViewStudents.Clear();
+
+                //add columns and allign
+                listViewStudents.Columns.Add("Room Number");
+                listViewStudents.Columns[0].Width = 100;
+                listViewStudents.Columns.Add("Type");
+                listViewStudents.Columns[1].Width = 110;
+                listViewStudents.Columns.Add("Capacity");
+                listViewStudents.Columns[2].Width = 110;
+
+                foreach (SomerenModel.Room s in roomList)
+                {
+
+                    ListViewItem li = new ListViewItem(s.Number.ToString());
+                    li.SubItems.Add(s.Type.ToString());
+                    li.SubItems.Add(s.Capacity.ToString());
+                    listViewStudents.Items.Add(li);
+                }
+
             }
         }
 
@@ -133,7 +176,7 @@ namespace SomerenUI
             MessageBox.Show("What happens in Someren, stays in Someren!");
         }
 
-        private void studentsToolStripMenuItem_Click(object sender, EventArgs e) //
+        private void studentsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             showPanel("Students");
         }
@@ -141,6 +184,11 @@ namespace SomerenUI
         private void lecturersToolStripMenuItem_Click(object sender, EventArgs e)
         {
             showPanel("Teachers");
+        }
+
+        private void roomsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showPanel("Rooms");
         }
     }
 }
