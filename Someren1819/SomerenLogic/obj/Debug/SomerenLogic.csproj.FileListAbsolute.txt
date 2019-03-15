@@ -40,3 +40,15 @@ C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb

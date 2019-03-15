@@ -49,3 +49,21 @@ C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
 C:\Users\Martin\OneDrive - Hogeschool Inholland\Study\Term 3\Project\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\Martin\Documents\GitHub\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
