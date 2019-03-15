@@ -74,6 +74,38 @@ namespace SomerenUI
                 }
 
             }
+            else if (panelName == "Teachers")
+            {
+                pnl_Dashboard.Hide();
+                img_Dashboard.Hide();
+                pnl_Students.Hide();
+
+                //Program.ShowTeachers().Show();
+                //this.pnl_Students.Controls.Clear();
+                lbl_Students.Text = "Teachers";
+                // show students
+                pnl_Students.Show();
+                //this.pnl_Students.Controls.Add(Program.ShowTeachers());
+                // fill the Teachers listview within the Teachers panel with a list of lecturers
+                SomerenLogic.Lecturers_Service lecService = new SomerenLogic.Lecturers_Service();
+                List<Teacher> lecturersList = lecService.GetLecturers();
+
+                // clear the listview before filling it again
+                listViewStudents.Clear();
+
+                //Adding columns
+                listViewStudents.View = View.Details;
+                listViewStudents.Columns.Add("Name", -2, HorizontalAlignment.Center);
+                listViewStudents.Columns.Add("Id", -2, HorizontalAlignment.Center);
+                foreach (SomerenModel.Teacher s in lecturersList)
+                {
+                    ListViewItem li = new ListViewItem(s.Name);
+                    li.SubItems.Add(s.Number.ToString());
+                    li.SubItems.Add(s.Name.ToString());
+                    listViewStudents.Items.Add(li);
+                    //   listViewLecturers.Items.Add(li);
+                }
+            }
         }
 
         private void dashboardToolStripMenuItem_Click(object sender, EventArgs e)
@@ -106,6 +138,9 @@ namespace SomerenUI
             showPanel("Students");
         }
 
-        
+        private void lecturersToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showPanel("Teachers");
+        }
     }
 }
