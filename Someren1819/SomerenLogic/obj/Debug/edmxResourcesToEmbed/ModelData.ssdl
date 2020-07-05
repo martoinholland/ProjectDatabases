@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pdbe33Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'pdbe33.dbo.CashRegister' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="CashRegister">
+          <Property Name="StudentName" Type="varchar" MaxLength="15" />
+          <Property Name="DrinkName" Type="varchar" MaxLength="15" />
+        </EntityType>-->
+  <EntityType Name="DISCO">
+    <Key>
+      <PropertyRef Name="disco_id" />
+    </Key>
+    <Property Name="disco_id" Type="int" Nullable="false" />
+    <Property Name="bill" Type="float" />
+    <Property Name="karaoke" Type="varchar" MaxLength="50" />
+    <Property Name="bar_id" Type="int" />
+    <Property Name="stock" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'pdbe33.dbo.Drinks' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Drinks">
+          <Property Name="drinkID" Type="int" />
+          <Property Name="drinkName" Type="varchar" MaxLength="15" />
+          <Property Name="price" Type="decimal" Precision="18" Scale="0" />
+          <Property Name="barID" Type="int" />
+          <Property Name="stock" Type="int" />
+          <Property Name="drinkSold" Type="int" />
+        </EntityType>-->
+  <EntityType Name="ROOM">
+    <Key>
+      <PropertyRef Name="room_id" />
+    </Key>
+    <Property Name="room_id" Type="int" Nullable="false" />
+    <Property Name="type" Type="bit" />
+    <Property Name="capacity" Type="int" />
+  </EntityType>
+  <EntityType Name="STUDENT">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="int" Nullable="false" />
+    <Property Name="first_name" Type="varchar" MaxLength="15" />
+    <Property Name="room_id" Type="int" />
+    <Property Name="activity_id" Type="int" />
+    <Property Name="disco_id" Type="int" />
+    <Property Name="birthday" Type="date" />
+    <Property Name="last_name" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TEACHER">
+    <Key>
+      <PropertyRef Name="teacher_id" />
+    </Key>
+    <Property Name="teacher_id" Type="int" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="15" />
+    <Property Name="room_id" Type="int" />
+    <Property Name="activity_id" Type="int" />
+    <Property Name="date" Type="date" />
+  </EntityType>
+  <EntityContainer Name="pdbe33ModelStoreContainer">
+    <EntitySet Name="DISCO" EntityType="Self.DISCO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ROOM" EntityType="Self.ROOM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STUDENT" EntityType="Self.STUDENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TEACHER" EntityType="Self.TEACHER" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

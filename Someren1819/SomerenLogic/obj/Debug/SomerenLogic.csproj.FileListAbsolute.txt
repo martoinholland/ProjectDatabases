@@ -64,3 +64,236 @@ D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\Somer
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\EntityFramework.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\EntityFramework.xml
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\EntityFramework.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\EntityFramework.xml
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\EntityFramework.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\EntityFramework.xml
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\EntityFramework.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\EntityFramework.xml
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\EntityFramework.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\EntityFramework.xml
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb

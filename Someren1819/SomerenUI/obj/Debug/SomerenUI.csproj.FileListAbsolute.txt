@@ -85,3 +85,369 @@ D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenU
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll.config
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll.config
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.F2.resources
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.exe
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenUI.exe
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenModel.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenLogic.dll.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenUI.exe
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenModel.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenLogic.dll.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.F2.resources
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.exe
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3 (Merge))\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Someren1819 (Martin_Assignment3 (Merge2.0))\Someren1819 (Martin_Assignment3 (Merge2.0))\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Assignment3Final\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.F2.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.exe
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenUI.exe
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenModel.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenLogic.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.LoginForm.resources
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenUI.exe
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenModel.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenLogic.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.F2.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.LoginForm.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.exe
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.LoginForm.resources
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.Password1.resources
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.LoginForm.resources
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.Password1.resources
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.LoginForm.resources
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.Password1.resources
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.FormCashRegister.resources
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.F2.resources
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.LoginForm.resources
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.Password1.resources
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenUI\obj\Debug\SomerenUI.pdb

@@ -40,15 +40,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activity.cs" />
+    <Compile Include="Drinks.cs" />
+    <Compile Include="Login.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="Register.cs" />
     <Compile Include="Room.cs" />
+    <Compile Include="Supervisor.cs" />
     <Compile Include="Teacher.cs" />
     <Compile Include="Student.cs" />
+    <Compile Include="Timetable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\Settings.settings">

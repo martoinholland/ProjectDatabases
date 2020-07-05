@@ -47,6 +47,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="F1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F1.Designer.cs">
+      <DependentUpon>F1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F2.Designer.cs">
+      <DependentUpon>F2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Password1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Password1.designer.cs">
+      <DependentUpon>Password1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pdbe33DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pdbe33DataSet1.xsd</DependentUpon>
+    </Compile>
     <Compile Include="SomerenUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -55,6 +84,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="F1.resx">
+      <DependentUpon>F1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F2.resx">
+      <DependentUpon>F2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Password1.resx">
+      <DependentUpon>Password1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SomerenUI.resx">
       <DependentUpon>SomerenUI.cs</DependentUpon>
     </EmbeddedResource>
@@ -68,6 +109,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="pdbe33DataSet1.xsc">
+      <DependentUpon>pdbe33DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="pdbe33DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pdbe33DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pdbe33DataSet1.xss">
+      <DependentUpon>pdbe33DataSet1.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

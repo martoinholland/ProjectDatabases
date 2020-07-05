@@ -53,3 +53,143 @@ D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\Someren
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
 D:\Project\GitHub Soup\ProjectDatabases\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+\\Mac\Home\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Assignment2\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 (Emmanuel v1.3)\SomerenDAL\obj\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\bin\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\bin\Debug\SomerenDAL.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\bin\Debug\SomerenModel.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\bin\Debug\SomerenModel.pdb
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\obj\Debug\SomerenDAL.dll
+D:\Project\Project Assignment 3\Someren1819 (Martin_Assignment3)\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Inholland\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Someren1819 Rasheed\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\obj\Debug\SomerenDAL.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\obj\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\bin\Debug\SomerenDAL.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\bin\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\bin\Debug\SomerenModel.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\bin\Debug\SomerenModel.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 4\Someren1819(Martin&Rasheed)\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Nieuwe map\SomerenDAL\obj\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\bin\Debug\SomerenDAL.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\bin\Debug\SomerenDAL.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\bin\Debug\SomerenModel.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\bin\Debug\SomerenModel.pdb
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\obj\Debug\SomerenDAL.dll
+D:\(Important) Skool is no Kool\Term 1.3\Database Project\Project Assignment 5\Rasheed Part A\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\Martin\Desktop\Rasheed Part A, Emmanuel Part B\Rasheed Part A, Emmanuel Part B\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\r-r19\Desktop\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\Moni\OneDrive - Hogeschool Inholland\Databases project\Assignment5-E33\Assignment5-E33\Someren1819\SomerenDAL\obj\Debug\SomerenDAL.pdb
